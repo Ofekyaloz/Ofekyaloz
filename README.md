@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ofek</h1>
 
-- 👨‍🎓 I’m currently learning **Computer Science at Bar-Ilan University.**
+- 👨‍🎓  **Computer Science gradute.** 👨‍🎓
 
-- 📫 How to reach me **ofekyaloz16@gmail.com**
+- 📫 How to reach me **ofekyaloz16@gmail.com** 📫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
